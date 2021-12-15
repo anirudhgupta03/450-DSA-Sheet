@@ -1,3 +1,4 @@
+//Ref: https://www.youtube.com/watch?v=sxOr8sA4X9w
 /*
 The structure of petrolPump is 
 struct petrolPump
